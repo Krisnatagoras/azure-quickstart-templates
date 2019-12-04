@@ -29,8 +29,8 @@ Look at the our GettingStarted Tutorial for a step by step demo.
 
 If you are new to Azure IoT Edge, see:
 
-- [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/about-iot-edge)
-- [Azure IoT Edge template reference](https://docs.microsoft.com/en-us/azure/templates/microsoft.devices/2019-03-22/iothubs)
+- [Azure IoT Edge](https://docs.microsoft.com/azure/iot-edge/about-iot-edge)
+- [Azure IoT Edge template reference](https://docs.microsoft.com/azure/templates/microsoft.devices/2019-03-22/iothubs)
 
 If you are new to template development, see:
 
